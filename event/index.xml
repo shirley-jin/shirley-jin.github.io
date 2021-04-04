@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Shirley Qian Jin</title>
-    <link>https://shirley-jin.github.io/event/</link>
-      <atom:link href="https://shirley-jin.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://shirley-jin.github.io/event/</link>
+      <atom:link href="http://shirley-jin.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://shirley-jin.github.io/media/icon_huefaec463d8c0a60ca12a2b2e0822a8bf_59333_512x512_fill_lanczos_center_2.png</url>
+      <url>http://shirley-jin.github.io/media/icon_huefaec463d8c0a60ca12a2b2e0822a8bf_59333_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://shirley-jin.github.io/event/</link>
+      <link>http://shirley-jin.github.io/event/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://shirley-jin.github.io/talk/example-talk/</link>
+      <link>http://shirley-jin.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://shirley-jin.github.io/talk/example-talk/</guid>
+      <guid>http://shirley-jin.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
