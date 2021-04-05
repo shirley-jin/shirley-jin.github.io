@@ -5,12 +5,48 @@
     <link>http://shirley-jin.github.io/</link>
       <atom:link href="http://shirley-jin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shirley Qian Jin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://shirley-jin.github.io/media/icon_huefaec463d8c0a60ca12a2b2e0822a8bf_59333_512x512_fill_lanczos_center_2.png</url>
       <title>Shirley Qian Jin</title>
       <link>http://shirley-jin.github.io/</link>
     </image>
+    
+    <item>
+      <title>13th International Social Innovation Research Conference (ISIRC)</title>
+      <link>http://shirley-jin.github.io/talk/13th-international-social-innovation-research-conference-isirc/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/talk/13th-international-social-innovation-research-conference-isirc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>81st Annual Meeting of the Academy of Management</title>
+      <link>http://shirley-jin.github.io/talk/81st-annual-meeting-of-the-academy-of-management/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/talk/81st-annual-meeting-of-the-academy-of-management/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>International Society for Third-Sector Research 2021 (ISTR 2021)</title>
+      <link>http://shirley-jin.github.io/talk/international-society-for-third-sector-research-2021-istr-2021/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/talk/international-society-for-third-sector-research-2021-istr-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
@@ -118,9 +154,9 @@
     
     <item>
       <title>Social Enterprises&#39; Legitimacy Acquisition and its Influences on Consumer Behaviors</title>
-      <link>http://shirley-jin.github.io/highlight/se-legitimacy-/</link>
+      <link>http://shirley-jin.github.io/project/se-legitimacy-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://shirley-jin.github.io/highlight/se-legitimacy-/</guid>
+      <guid>http://shirley-jin.github.io/project/se-legitimacy-/</guid>
       <description></description>
     </item>
     

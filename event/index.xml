@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Shirley Qian Jin</title>
+    <title>Conferences | Shirley Qian Jin</title>
     <link>http://shirley-jin.github.io/event/</link>
       <atom:link href="http://shirley-jin.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <description>Conferences</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://shirley-jin.github.io/media/icon_huefaec463d8c0a60ca12a2b2e0822a8bf_59333_512x512_fill_lanczos_center_2.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Conferences</title>
       <link>http://shirley-jin.github.io/event/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://shirley-jin.github.io/talk/example-talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://shirley-jin.github.io/talk/example-talk/</guid>
+      <title>13th International Social Innovation Research Conference (ISIRC)</title>
+      <link>http://shirley-jin.github.io/talk/13th-international-social-innovation-research-conference-isirc/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/talk/13th-international-social-innovation-research-conference-isirc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>81st Annual Meeting of the Academy of Management</title>
+      <link>http://shirley-jin.github.io/talk/81st-annual-meeting-of-the-academy-of-management/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/talk/81st-annual-meeting-of-the-academy-of-management/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -30,6 +38,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>International Society for Third-Sector Research 2021 (ISTR 2021)</title>
+      <link>http://shirley-jin.github.io/talk/international-society-for-third-sector-research-2021-istr-2021/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/talk/international-society-for-third-sector-research-2021-istr-2021/</guid>
+      <description></description>
     </item>
     
   </channel>
