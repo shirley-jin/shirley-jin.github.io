@@ -5,36 +5,12 @@
     <link>http://shirley-jin.github.io/event/</link>
       <atom:link href="http://shirley-jin.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Conferences</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>http://shirley-jin.github.io/media/icon_huefaec463d8c0a60ca12a2b2e0822a8bf_59333_512x512_fill_lanczos_center_2.png</url>
       <title>Conferences</title>
       <link>http://shirley-jin.github.io/event/</link>
     </image>
-    
-    <item>
-      <title>13th International Social Innovation Research Conference (ISIRC 2021)</title>
-      <link>http://shirley-jin.github.io/talk/13th-international-social-innovation-research-conference-isirc-2021/</link>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://shirley-jin.github.io/talk/13th-international-social-innovation-research-conference-isirc-2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>81st Annual Meeting of the Academy of Management</title>
-      <link>http://shirley-jin.github.io/talk/81st-annual-meeting-of-the-academy-of-management/</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://shirley-jin.github.io/talk/81st-annual-meeting-of-the-academy-of-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>International Society for Third-Sector Research 2021 (ISTR 2021)</title>
-      <link>http://shirley-jin.github.io/talk/international-society-for-third-sector-research-2021-istr-2021/</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://shirley-jin.github.io/talk/international-society-for-third-sector-research-2021-istr-2021/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
