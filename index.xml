@@ -5,12 +5,28 @@
     <link>http://shirley-jin.github.io/</link>
       <atom:link href="http://shirley-jin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Qian Jin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://shirley-jin.github.io/media/icon_huefaec463d8c0a60ca12a2b2e0822a8bf_59333_512x512_fill_lanczos_center_2.png</url>
       <title>Qian Jin</title>
       <link>http://shirley-jin.github.io/</link>
     </image>
+    
+    <item>
+      <title>How Consumers Assess Social Enterprises&#39; Cognitive Legitimacy: An Exploration Using Topic Modelling and Discourse Network Analysis</title>
+      <link>http://shirley-jin.github.io/conferences/isirc2021/</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/conferences/isirc2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Drives social enterprises&#39; Cognitive Legitimacy: Implications from Consumers&#39; Legitimacy Judgement</title>
+      <link>http://shirley-jin.github.io/conferences/aom2021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://shirley-jin.github.io/conferences/aom2021/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
