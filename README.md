@@ -2,4 +2,4 @@
 
 I built and regularly update my personal website using this repository. 
 
-http;//shirley-jin.github.io
+http://shirley-jin.github.io
