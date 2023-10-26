@@ -2,38 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://shirley-jin.github.io/categories/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://shirley-jin.github.io/tags/hugo-site/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://shirley-jin.github.io/categories/package/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://shirley-jin.github.io/categories/r/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>http://shirley-jin.github.io/research/ai-and-ent/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shirley-jin.github.io/research/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shirley-jin.github.io/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://shirley-jin.github.io/research/giraffes/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>http://shirley-jin.github.io/research/se-legitimacy-building/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://shirley-jin.github.io/tags/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>http://shirley-jin.github.io/research/philantropic-crowdfunding/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://shirley-jin.github.io/categories/theme-features/</loc>
-    <lastmod>2019-07-03T00:00:00+00:00</lastmod>
+    <loc>http://shirley-jin.github.io/research/bcorp/</loc>
+    <lastmod>2023-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://shirley-jin.github.io/research/penguins/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
+    <loc>http://shirley-jin.github.io/research/blockchain/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://shirley-jin.github.io/research/bakeoff/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+    <loc>http://shirley-jin.github.io/research/ai-and-method/</loc>
+    <lastmod>2023-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://shirley-jin.github.io/cv/</loc>
   </url><url>
@@ -41,11 +32,15 @@
   </url><url>
     <loc>http://shirley-jin.github.io/about/</loc>
   </url><url>
+    <loc>http://shirley-jin.github.io/categories/</loc>
+  </url><url>
     <loc>http://shirley-jin.github.io/license/</loc>
   </url><url>
     <loc>http://shirley-jin.github.io/publication/</loc>
   </url><url>
     <loc>http://shirley-jin.github.io/series/</loc>
+  </url><url>
+    <loc>http://shirley-jin.github.io/tags/</loc>
   </url><url>
     <loc>http://shirley-jin.github.io/teaching/</loc>
   </url>

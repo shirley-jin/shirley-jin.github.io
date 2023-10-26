@@ -6,33 +6,59 @@
     <description>Recent content on Shirley Qian Jin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://shirley-jin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://shirley-jin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tachyons for Style</title>
-      <link>http://shirley-jin.github.io/research/giraffes/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Artificial Intelligence and Entrepreneurship</title>
+      <link>http://shirley-jin.github.io/research/ai-and-ent/</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://shirley-jin.github.io/research/giraffes/</guid>
-      <description>Tachyons is a design system that allows you to design gorgeous interfaces in the browser with little effort.      Because Speed     Building this static site generator theme was the first time I used an Atomic (or Functional) CSS system like Tachyons. It&amp;rsquo;s a design system that provides very small (which means fast) CSS modules that you can use in your HTML. So, rather than writing every line of CSS, you apply the style you need as you write your HTML with easy to understand shorthand class names.</description>
+      <guid>http://shirley-jin.github.io/research/ai-and-ent/</guid>
+      <description>More details coming soon!</description>
     </item>
     
     <item>
-      <title>Palmer Penguins</title>
-      <link>http://shirley-jin.github.io/research/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Legitimacy Building of Social Enterprises</title>
+      <link>http://shirley-jin.github.io/research/se-legitimacy-building/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://shirley-jin.github.io/research/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <guid>http://shirley-jin.github.io/research/se-legitimacy-building/</guid>
+      <description>More details coming soon!</description>
     </item>
     
     <item>
-      <title>Bakeoff</title>
-      <link>http://shirley-jin.github.io/research/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Organizing in Philantropic Crowdfunding</title>
+      <link>http://shirley-jin.github.io/research/philantropic-crowdfunding/</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://shirley-jin.github.io/research/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>http://shirley-jin.github.io/research/philantropic-crowdfunding/</guid>
+      <description>More details coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Organizational Identity and Certification Behavior</title>
+      <link>http://shirley-jin.github.io/research/bcorp/</link>
+      <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shirley-jin.github.io/research/bcorp/</guid>
+      <description>More details coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Entrepreneurial Action in Blockchain</title>
+      <link>http://shirley-jin.github.io/research/blockchain/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shirley-jin.github.io/research/blockchain/</guid>
+      <description>More details coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Methodology powered by AI</title>
+      <link>http://shirley-jin.github.io/research/ai-and-method/</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://shirley-jin.github.io/research/ai-and-method/</guid>
+      <description>More details coming soon!</description>
     </item>
     
     <item>
