@@ -14,14 +14,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research"
-    url: /research/    
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Miscellany"
-    url: /miscellany/
