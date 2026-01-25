@@ -1,0 +1,32 @@
+# Generated files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+dist/
+
+# Dependencies
+Gemfile.lock
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.log
+.bundle/
+vendor/
+
+# Environment
+.env
+.env.local
